@@ -14,3 +14,12 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+## Overview
+This app will help converting the number system
+- Decimal to binary
+- Decimal to octal
+- Decimal to hexadecimal
+- Binary to decimal
+- Octal to decimal
+- Hexadecimal to deciaml
